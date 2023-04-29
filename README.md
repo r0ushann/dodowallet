@@ -1,4 +1,7 @@
 # dodowallet
+A crypto wallet to functional to send crypto, list owned tokens and nfts.
+Super light extension with minimalistic UI and fully functional.
+Go give it a try yourself!
 
 <img width="960" alt="Screenshot 2023-04-29 232006" src="https://user-images.githubusercontent.com/86906965/235316961-112f1560-1147-43e7-9ed4-a19c156442f6.png">
 <img width="960" alt="Screenshot 2023-04-29 232015" src="https://user-images.githubusercontent.com/86906965/235316964-42e11652-0a92-49bc-b698-bbd6472103d0.png">
