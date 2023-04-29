@@ -45,7 +45,7 @@ app.get("/getTokens", async (req, res) => {
 });
 
 Moralis.start({
-  apiKey: "p4hT17zvoLCpdC9ps3BKACJDnvMPlat0TrIJcHXCiqkvHgCS7ETdeWrltdmkYmrt",
+  apiKey: process.env.MORALIS_API_KEY,
 }).then(() => {
   app.listen(port, () => {
     console.log(`Listening for API Calls`);
